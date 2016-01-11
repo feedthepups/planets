@@ -1,0 +1,4 @@
+#ingore data files
+*.dat
+#results dir
+results/
